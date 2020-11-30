@@ -16,36 +16,37 @@ Un lien au build est fourni ci-dessous.
 
 ## Captures d'écrans
 
+### 0. Plan de niveau
 Cette image est le plan de niveau, qui tient sa base de la map Windward du jeu Rogue Company. 
 
 Le design du niveau a été basé sur une île d'Italie la nuit. Nous avons opté pour une architecture ancienne tranquillement envahie par la végétation. Le son du vent plonge le joueur dans l'atmosphère pittoresque d'une petite ville la nuit.
 ![Image 0](CapturesEcran/0.jpg)
 
-### Vue du parc
+### 1. Vue du parc
 ![Image 1](CapturesEcran/1.PNG)
 
-### Vue des marchés, à la place publique
+### 2. Vue des marchés, à la place publique
 ![Image 2](CapturesEcran/2.PNG)
 
-### Vue sur les batîments
+### 3. Vue sur les batîments
 ![Image 3](CapturesEcran/3.PNG)
 
-### Vue (partiellement cachée) sur le clocher, à partir des résidences
+### 4. Vue (partiellement cachée) sur le clocher, à partir des résidences
 ![Image 4](CapturesEcran/4.PNG)
 
-### Vue sur le clocher et les alentours, à partir de la place publique
+### 5. Vue sur le clocher et les alentours, à partir de la place publique
 ![Image 5](CapturesEcran/5.PNG)
 
-### Vue sur l'appartement
+### 6. Vue sur l'appartement
 ![Image 6](CapturesEcran/6.PNG)
 
-### Un grand arbre résidence à la place publique des résidences
+### 7. Un grand arbre résidence à la place publique des résidences
 ![Image 7](CapturesEcran/7.PNG)
 
-### Il ne manque pas de variétés de plantes au fleuriste.
+### 8. Il ne manque pas de variétés de plantes au fleuriste.
 ![Image 8](CapturesEcran/8.PNG)
 
-### Voilà! 
+### 9. Voilà! 
 
 Je vous recommande fortement d'explorer par vous-même, l'expérience en vaut le coup! Certains éléments crucials à l'atmosphère (comme le son ou le mouvement) ne peuvent pas être transmis par image :)
 
