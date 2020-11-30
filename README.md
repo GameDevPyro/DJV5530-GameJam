@@ -48,7 +48,7 @@ Le design du niveau a été basé sur une île d'Italie la nuit. Nous avons opt�
 ### 6. Vue sur l'appartement
 ![Image 6](CapturesEcran/6.PNG)
 
-### 7. Un grand arbre résidence à la place publique des résidences
+### 7. Vue sur la place publique aux résidences
 ![Image 7](CapturesEcran/7.PNG)
 
 ### 8. Il ne manque pas de variétés de plantes au fleuriste.
