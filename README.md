@@ -27,7 +27,7 @@ La molette de souris permet d'ajuster la sensitivité de la caméra
 ### 0. Plan de niveau
 Cette image est le plan de niveau, qui tient sa base de la map Windward du jeu Rogue Company. Notre devis consistait d'interpréter un niveau pour un jeu de tir à la première personne. 
 
-Le design du niveau a été basé sur une île d'Italie la nuit. Nous avons opté pour une architecture ancienne tranquillement envahie par la végétation. Le son du vent plonge le joueur dans l'atmosphère pittoresque d'une petite ville la nuit.
+Le design du niveau a été basé sur une île d'Italie. Nous avons opté pour une architecture ancienne tranquillement envahie par la végétation. Le son du vent plonge le joueur dans l'atmosphère pittoresque d'une petite ville la nuit.
 ![Image 0](CapturesEcran/0.jpg)
 
 ### 1. Vue du parc
